@@ -1,4 +1,4 @@
-# capstone
+# Evaluating Robustness of Large Language Models on Code-Mixed Indian Language Inputs
 # 🧠 Evaluating Robustness of LLMs on Code-Mixed Indian Languages
 
 ## 📖 Overview
